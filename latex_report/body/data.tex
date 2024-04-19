@@ -1,0 +1,13 @@
+Les données concernent le monde \emph{incel} italien. Les incels - abréviation de “involuntary celibates” - sont les membres d'une certaine communauté en ligne. Ils se caractérisent par le fait qu'il s'agit principalement d'hommes blancs hétérosexuels qui se décrivent comme incapables d'avoir un partenaire romantique ou sexuel bien qu'ils en aient envie.
+\\
+
+En particulier, les données ont été collectées à partir de trois sources différentes grâce à des techniques de \emph{data scraping}:
+\begin{enumerate}[label= -]
+\item groupe sur Telegram “Azione Incel”
+\item groupe sur Telegram “FDB”
+\item forum en ligne “il forum dei brutti”\footnote{”le forum des moches“ en italien}
+\end{enumerate}
+
+Les données sont donc constituées des messages postés sur les deux groupes télégrammes et des messages postés sur le forum.\\
+
+Le dataset à partir duquel commence notre analyse est déjà le résultat de l'union des données de ces différentes sources et contient trois colonnes : id, text, file\_label. “id” est un code numérique que nous pouvons ignorer pour le moment. “text” est la chaîne de texte qui contient le contenu du message et “file\_label” est une étiquette qui indique la source d'où provient le texte.
