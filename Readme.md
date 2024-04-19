@@ -1,14 +1,4 @@
 Data downloaded 5th of april
-
-<br><br>
-
-## Workflow pipeline:
-- preliminar analysis on corpus (length, time, activity)
-- data cleaning (removing outliers, selecting only text and index)
-- merge and shuffle data
-- manual labelling of benchmark following guidelines
-- LLM prompt engineering with sBert
-
 <br>
 
 # Content
