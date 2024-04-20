@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'master_doc.blg'
+[81] biber-darwin:340> INFO - === Sat Apr 20, 2024, 15:19:42
+[102] Biber.pm:418> INFO - Reading 'master_doc.bcf'
+[175] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[191] Biber.pm:4383> INFO - Processing section 0
+[203] Biber.pm:4574> INFO - Looking for bibtex file '../bib_TAL.bib' for section 0
+[205] bibtex.pm:1713> INFO - LaTeX decoding ...
+[210] bibtex.pm:1518> INFO - Found BibTeX data source '../bib_TAL.bib'
+[256] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[256] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[256] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
+[257] Biber.pm:4209> INFO - No sort tailoring available for locale 'fr-FR'
+[265] bbl.pm:654> INFO - Writing 'master_doc.bbl' with encoding 'UTF-8'
+[266] bbl.pm:757> INFO - Output to master_doc.bbl

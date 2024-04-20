@@ -78,5 +78,8 @@
     <requires type="dynamic">
       <file>master_doc.bcf</file>
     </requires>
+    <requires type="editable">
+      <file>../bib_TAL.bib</file>
+    </requires>
   </external>
 </requests>
