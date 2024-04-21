@@ -3,7 +3,7 @@ Code used as part of the NLP course in the Digital Humanities master's program a
 
 The report in pdf format can be viewed [here.](https://nbviewer.org/github/savaij/devoir_TAL/blob/main/latex_report/master_document/master_doc.pdf)
 
-Data downloaded the 5th of april 2023
+Data downloaded the 5th of april 2024
 <br>
 
 # Content
@@ -30,5 +30,3 @@ Data downloaded the 5th of april 2023
 Note: this notebook has been executed in Google Colab <a target="_blank" href="https://colab.research.google.com/github/savaij/devoir_TAL/blob/main/data_preprocessing/embeddings_reduction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-
