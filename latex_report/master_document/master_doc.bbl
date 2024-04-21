@@ -19,6 +19,28 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{ilpost2022}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We’re on a journey to advance and democratize artificial intelligence through open source and open science.}
+      \field{month}{10}
+      \field{title}{{{ARTeLab}}/ilpost · {{Datasets}} at {{Hugging Face}}}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/UVVJ5B6X/ilpost.html
+      \endverb
+      \verb{urlraw}
+      \verb https://huggingface.co/datasets/ARTeLab/ilpost
+      \endverb
+      \verb{url}
+      \verb https://huggingface.co/datasets/ARTeLab/ilpost
+      \endverb
+    \endentry
     \entry{sentenceBERT2024}{misc}{}
       \field{sortinit}{n}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
