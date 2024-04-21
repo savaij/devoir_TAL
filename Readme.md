@@ -1,4 +1,9 @@
-Data downloaded 5th of april
+# Homework NLP 2023
+Code used as part of the NLP course in the Digital Humanities master's program at the École Nationale des Chartes.
+
+The report in pdf format can be viewed [here.](https://nbviewer.org/github/savaij/devoir_TAL/blob/main/latex_report/master_document/master_doc.pdf)
+
+Data downloaded the 5th of april
 <br>
 
 # Content
