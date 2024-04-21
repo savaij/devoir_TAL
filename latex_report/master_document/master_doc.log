@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.9)  21 APR 2024 13:17
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.9)  21 APR 2024 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,42 +728,48 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
 \openout4 = `master_doc.out'.
 
- (./master_doc.toc)
+ (../front_page/front.tex [1
+
+])
+(./master_doc.toc)
 \tf@toc=\write5
 \openout5 = `master_doc.toc'.
 
- [1
+ [2
 
-]
-(../intro_document/intro.tex
+] (../intro_document/intro.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
 ) (../body/data.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-) (../body/process.tex
+) [3
+
+] (../body/process.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[2
-
-]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -783,11 +789,11 @@ File: ../images//umap.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3]
+[4]
 
-LaTeX Warning: Text page 4 contains only floats.
+LaTeX Warning: Text page 5 contains only floats.
 
-[4]) (../body/control.tex
+[5]) (../body/control.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -809,29 +815,29 @@ File: ../images//umap_test.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5
+[6
 
-] [6]) [7
+] [7]) (../body/limites.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
-] [8] (./master_doc.aux)
+ []
+
+) [8
+
+] [9] (./master_doc.aux)
 Package rerunfilecheck Info: File `master_doc.out' has not changed.
-(rerunfilecheck)             Checksum: 7BA9BFF082161263D5868964C90439FC;417.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(rerunfilecheck)             Checksum: 34CF221EEAC8325867D1B018B1B7CC9D;518.
 Package logreq Info: Writing requests to 'master_doc.run.xml'.
 \openout1 = `master_doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25059 strings out of 476179
- 473873 string characters out of 5809545
+ 25077 strings out of 476179
+ 474217 string characters out of 5809545
  1225779 words of memory out of 5000000
- 45552 multiletter control sequences out of 15000+600000
- 472491 words of font info for 55 fonts, out of 8000000 for 9000
+ 45561 multiletter control sequences out of 15000+600000
+ 472507 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,5n,77p,1242b,5276s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on master_doc.pdf (8 pages).
+Output written on master_doc.pdf (9 pages).
