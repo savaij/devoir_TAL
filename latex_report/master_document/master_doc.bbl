@@ -19,6 +19,28 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{sentenceBERT2024}{misc}{}
+      \field{sortinit}{n}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We’re on a journey to advance and democratize artificial intelligence through open source and open science.}
+      \field{month}{1}
+      \field{title}{nickprock/sentence-bert-base-italian-xxl-uncased · {{Hugging Face}}}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/984D3AMY/sentence-bert-base-italian-xxl-uncased.html
+      \endverb
+      \verb{urlraw}
+      \verb https://huggingface.co/nickprock/sentence-bert-base-italian-xxl-uncased
+      \endverb
+      \verb{url}
+      \verb https://huggingface.co/nickprock/sentence-bert-base-italian-xxl-uncased
+      \endverb
+    \endentry
     \entry{reimers2019}{misc}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=da9947b27b0d1c4c912e2b391426d443}{%
